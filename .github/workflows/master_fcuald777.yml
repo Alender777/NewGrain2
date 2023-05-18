@@ -52,5 +52,5 @@ jobs:
         with:
           app-name: 'FCUAld777'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C0096F2F13FB40BA9EC85CED009243DC }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_8D370186174C434A8CB8A8891E69F7CB }}
           package: .
